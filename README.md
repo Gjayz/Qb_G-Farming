@@ -3,7 +3,7 @@
 </div>
 
 
-<h5>Dependencies</h5>
+## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-target](https://github.com/BerkieBb/qb-target)
 - [qb-menu](https://github.com/qbcore-framework/qb-menu)
